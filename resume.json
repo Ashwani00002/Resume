@@ -1,0 +1,230 @@
+{
+  "basics": {
+    "name": "Ashwani Verma",
+    "label": "Platform Engineer",
+    "image": "",
+    "email": "ashwaniverma002@gmail.com",
+    "phone": "859-553-3281",
+    "url": "",
+    "summary": "More than 8 years of experience as DevOps Engineer possessing in-depth experience in managing cloud-based technology & effectively handling configuration & deployment of infrastructure & services using automation.",
+    "location": {
+      "address": "NEW DELHI",
+      "postalCode": "110089",
+      "city": "DELHI",
+      "countryCode": "IND",
+      "region": "INDIA"
+    },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Ashwani",
+        "url": "https://www.linkedin.com/in/ashwani-verma-a36808125/"
+      },
+      {
+        "network": "Skype",
+        "username": "Ashwani",
+        "url": "https://join.skype.com/invite/bicEVKaCmZPh"
+      },
+      {
+        "network": "Twitter",
+        "username": "Ashwani",
+        "url": "https://twitter.com/Ashwani0021"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Adidas India Marketing Private Limited",
+      "position": "Platform Engineer",
+      "url": "https://www.adidas.co.in/",
+      "startDate": "21-Dec-2022",
+      "summary": "Adidas is a German multinational corporation, that designs and manufactures shoes, clothing and accessories. It is the largest sportswear manufacturer in Europe, and the second largest in the world.",
+      "highlights": [
+        "Maintain and develop observability systems for product teams to provide deep visibility into their application logs & metrics deployed in Kubernetes.",
+        "Building alerting and incident response systems for different teams using Opsgenie, Grafana, Prometheus, Instana, ELK Stack.",
+        "Leverage IaC tools Terraform & CDK, Cloudformtion to deploy infrastructure components in AWS.",
+        "Automate daily procedures to improve the performance of the platform with Jenkins.",
+        "Onboard AWS Landing Zone workspace for the application team.",
+        "Command line scripting in bash, Golang and python."
+      ]
+    },
+
+    {
+      "name": "Celestial Systems Pvt. Ltd",
+      "position": "DevOps Engineer",
+      "url": "https://www.celestialsys.com",
+      "startDate": "17-Dec-2018",
+      "endDate": "10-Dec-2020",
+      "summary": "Celestial System is a Canada-based software development company offering services in web/mobile development - Frontend, Backend,Testing & QA, Cloud Hosting and DevOps.",
+      "highlights": [
+        "Deploying AWS cloud infrastructure with Jenkins across all environments.",
+        "Architect cost-efficient, fault-tolerant, and highly available environment in AWS.",
+        "Build CI/CD pipelines using Jenkins & Azure DevOps.",
+        "Responsible for orchestrating containerized infrastructure using Docker and Kubernetes.",
+        "Setting up configuration with like Ansible to simplify the process of deploying and upgrading systems across our environment.",
+        "Create deployment pipelines and application environments as Code pipelines."
+      ]
+    },
+
+    {
+      "name": "CMS Computer Ltd",
+      "position": "Support Engineer",
+      "url": "https://www.cms.co.in/",
+      "startDate": "23-Sep-2017",
+      "endDate": "15-Dec-2018",
+      "summary": "CMS Computers Ltd is a pioneer in Indian ICT industry fullfiling government’s mission of Digital India, Smart Cities, Smart Grids.",
+      "highlights": [
+        "Automate and orchestrate build and deployment pipelines using Jenkins.",
+        "Deployment of new codes to servers and automation using CICD.",
+        "Automation & configuration of virtual servers using Ansible and Puppet.",
+        "Infrastructure monitoring & logging using Prometheus, Grafana, and ELK.",
+        "Provide consultancy to product/development teams on deploying code."
+      ]
+    },
+
+    {
+      "name": "HCL Technologies",
+      "position": "Senior Analyst",
+      "url": "https://www.hcltech.com/",
+      "startDate": "29-May-2022",
+      "endDate": "17-Sep-2017",
+      "summary": "HCL Technologies is a Indian technology company that helps enterprises to build solutions around Digital, IoT, Cloud, Automation, Cybersecurity, Analytics, Infrastructure Management and Engineering.",
+      "highlights": [
+        "Automate and orchestrate build and deployment pipelines using Jenkins.",
+        "Deployment of new codes to servers and automation using CICD.",
+        "Automation & configuration of virtual servers using Ansible and Puppet.",
+        "Infrastructure monitoring & logging using Prometheus, Grafana, and ELK.",
+        "Provide consultancy to product/development teams on deploying code."
+      ]
+    }
+
+  ],
+  "skills": [
+    {
+      "name": "Technologies",
+      "keywords": [
+        "AWS Azure",
+        "CICD Jenkins Pipeline",
+        "Docker Kubernetes",
+        "Infrastructure as Code(IaC)",
+        "Ansible Terraform",
+        "Cloudformation CDK",
+        "Elastic Logstash Kibana(ELK)",
+        "Fluentd Vector",
+        "Prometheus Grafana Instana",
+        "JIRA Confluene Opsgenie",
+        "Github Bitbucket",
+        "Kong API Gateway",
+        "API Security",
+        "Apache Kafka",
+        "Apache NGINX",
+        "Networking (OSI/TCP)",
+        "Database (SQL)",
+        "Linux Bash",
+        "Golang",
+        "Python"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Guru Gobind Singh Indraprastha University",
+      "url": "http://www.ipu.ac.in/",
+      "area": ", Delhi",
+      "studyType": "Maharaja Agrasen Institute Of Technology",
+      "startDate": "01-Aug-2009",
+      "endDate": "31-July-2013",
+      "score": "7.5",
+      "courses": [
+        "B.Tech"
+      ]
+    },
+    {
+      "institution": "Higher Secondary Certificate",
+      "url": "https://www.vidyabharatischool.co.in/",
+      "area": ", Delhi",
+      "studyType": "Vidya Bharati School",
+      "startDate": "01-Apr-2008",
+      "endDate": "01-Mar-2007",
+      "score": "7.3",
+      "courses": [
+        "Central Board of Secondary Education"
+      ]
+    },
+    {
+      "institution": "Secondary School Certificate",
+      "url": "https://www.vidyabharatischool.co.in/",
+      "area": ", Delhi",
+      "studyType": "Vidya Bharati School",
+      "startDate": "01-Apr-2008",
+      "endDate": "01-Mar-2007",
+      "score": "7.9",
+      "courses": [
+        "Central Board of Secondary Education"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "HCL COMNET JEWELS AWARD",
+      "date": "2015-11-01",
+      "awarder": "HCL Technologies",
+      "summary": "Member of Performers"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "date": "24-Nov-2019",
+      "issuer": "Amazon Web Services",
+      "url": "file:///Users/vermaash/onedrive-adidas/Docs/Employment/certification/AWS_Solution_Architect.pdf"
+    },
+    {
+      "name": "VMAX All Flash and VMAX3 Solutions Version 2.0 Certified",
+      "date": "26-Feb-2018",
+      "issuer": "DELL EMC",
+      "url": "file:///Users/vermaash/onedrive-adidas/Docs/Employment/certification/AWS_Solution_Architect.pdf",
+      "registrationNumber": "330651233",
+      "ValidationNumber": "58101292"
+    },
+    {
+      "name": "Information Storage and Management Version 3 Exam",
+      "date": "04-Mar-2018",
+      "issuer": "DELL EMC",
+      "url": "file:///Users/vermaash/onedrive-adidas/Docs/Employment/certification/AWS_Solution_Architect.pdf",
+      "registrationNumber": "331012490",
+      "ValidationNumber": "588952507"
+
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "CEFR-B2"
+    },
+    {
+      "language": "German",
+      "fluency": "CEFR-A2"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native Speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "",
+      "keywords": [
+        "Travelling",
+        "Music",
+        "Cricket"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Ashwani Verma",
+      "reference": "Reference…"
+    }
+  ]
+}

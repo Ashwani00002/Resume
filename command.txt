@@ -1,0 +1,11 @@
+npm install -g resume-cli
+npm install jsonresume-theme-caffeine
+resume export resume.pdf --format pdf --theme caffeine
+
+cora
+elegant
+apage --- about
+macchiato
+orbit
+tan-responsive
+
